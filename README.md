@@ -1,8 +1,8 @@
-// Portfólio de Programação Web - Engenharia de Software.
+Portfólio de Programação Web - Engenharia de Software.
 
-// Os Softwares utilizados foram: Spring Tools 4 e Postman.
+Os Softwares utilizados foram: Spring Tools 4 e Postman.
 
-// Os objetivos eram:
+Os objetivos eram:
 
 - Criar projeto Spring Boot Java,
 - Implementar modelo de domínio,
@@ -12,4 +12,4 @@
 - CRUD - Create, Retrieve, Update, Delete,
 - Tratamento de exceções.
 
-//  Concluído
+Concluído
