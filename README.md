@@ -1,4 +1,4 @@
-Portfólio de Programação Web - Engenharia de Software.
+Portfólio Programação Web - Engenharia de Software.
 
 Os Softwares utilizados foram: Spring Tools 4 e Postman.
 
